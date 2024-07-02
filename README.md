@@ -1,7 +1,7 @@
 # Landing-Page
 
 Live Demo:
-https://leo-tsant.github.io/Landing-Page/
+https://leo-tsant.github.io/landing-page/
 
 ![Project Screenshot](./images/landing-page.png)
 
